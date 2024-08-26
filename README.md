@@ -1,2 +1,2 @@
-# Learn CSS Colors by Building a Set of Colored Markers from freeCodeCamp
-Responsive Web Design -> Learn CSS Colors by Building a Set of Colored Markers
+# Learn HTML Forms by Building a Registration Form from freeCodeCamp
+Responsive Web Design -> Learn HTML Forms by Building a Registration Form
